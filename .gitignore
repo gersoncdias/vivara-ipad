@@ -1,0 +1,9 @@
+/cypress/videos/
+/cypress/screenshots/
+/cypress/fixtures/
+/cypress/results/
+/cypress/reports/
+/cypress/backups/
+/node_modules/
+/cypress.env.json
+tokenFile.txt
