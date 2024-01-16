@@ -2,11 +2,11 @@
 
 Este é o projeto de estudo em automação Responsiva.
 
-## Estrutura de diretórios
+## Descrição do Projeto
 
-- [cypress](cypress) - Projeto de automação;
-
-## Projeto de automação
+- O projeto de testes de automação responsiva tem como objetivo validar as principais funções e telas do sistema, 
+ garantindo a mais alta qualidade possível do produto. Os testes incluem a verificação de estilos, cores e 
+ formatações CSS em cada página, garantindo consistência visual em todo o sistema.
 
 ### Instalação e Pré-Requisitos
 
@@ -19,11 +19,7 @@ Este é o projeto de estudo em automação Responsiva.
 
 ### Execução dos testes
 
- O projeto de testes de automação responsiva tem como objetivo validar as principais funções e telas do sistema, 
- garantindo a mais alta qualidade possível do produto. Os testes incluem a verificação de estilos, cores e 
- formatações CSS em cada página, garantindo consistência visual em todo o sistema.
-
-Prontp de comando:
+Pronpt de comando:
 Navegar até a pasta do projeto e executar um dos comando abaixo:
 
 `npx cypress open` ou `npm run open`: Abrir a IDE do Cypress e apartir de lá executar os testes
